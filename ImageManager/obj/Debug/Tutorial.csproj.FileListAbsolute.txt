@@ -1,0 +1,18 @@
+C:\Users\lasse\AppData\Local\Temporary Projects\Tutorial\bin\Debug\Tutorial.exe.config
+C:\Users\lasse\AppData\Local\Temporary Projects\Tutorial\bin\Debug\Tutorial.exe
+C:\Users\lasse\AppData\Local\Temporary Projects\Tutorial\bin\Debug\Tutorial.pdb
+C:\Users\lasse\AppData\Local\Temporary Projects\Tutorial\obj\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\lasse\AppData\Local\Temporary Projects\Tutorial\obj\Debug\Tutorial.Form1.resources
+C:\Users\lasse\AppData\Local\Temporary Projects\Tutorial\obj\Debug\Tutorial.Properties.Resources.resources
+C:\Users\lasse\AppData\Local\Temporary Projects\Tutorial\obj\Debug\Tutorial.csproj.GenerateResource.Cache
+C:\Users\lasse\AppData\Local\Temporary Projects\Tutorial\obj\Debug\Tutorial.exe
+C:\Users\lasse\AppData\Local\Temporary Projects\Tutorial\obj\Debug\Tutorial.pdb
+G:\Documents\Visual Studio 2013\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.exe.config
+G:\Documents\Visual Studio 2013\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.exe
+G:\Documents\Visual Studio 2013\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.pdb
+G:\Documents\Visual Studio 2013\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.exe
+G:\Documents\Visual Studio 2013\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.pdb
+G:\Documents\Visual Studio 2013\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.Form1.resources
+G:\Documents\Visual Studio 2013\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.Properties.Resources.resources
+G:\Documents\Visual Studio 2013\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.GenerateResource.Cache
+G:\Documents\Visual Studio 2013\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.csprojResolveAssemblyReference.cache

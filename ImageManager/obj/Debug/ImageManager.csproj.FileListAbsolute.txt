@@ -1,0 +1,5 @@
+G:\Documents\Visual Studio 2013\Projects\Tutorial\Tutorial\obj\Debug\ImageManager.csprojResolveAssemblyReference.cache
+G:\Documents\Visual Studio 2013\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.Form1.resources
+G:\Documents\Visual Studio 2013\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.Properties.Resources.resources
+G:\Documents\Visual Studio 2013\Projects\Tutorial\Tutorial\obj\Debug\ImageManager.csproj.GenerateResource.Cache
+G:\Documents\Visual Studio 2013\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.exe

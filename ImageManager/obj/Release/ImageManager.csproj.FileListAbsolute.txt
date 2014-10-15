@@ -1,0 +1,2 @@
+G:\Documents\Visual Studio 2013\Projects\Tutorial\Tutorial\bin\Release\Tutorial.exe.config
+G:\Documents\Visual Studio 2013\Projects\Tutorial\Tutorial\bin\Release\ImageManager.exe.config
